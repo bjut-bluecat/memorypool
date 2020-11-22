@@ -1,0 +1,3 @@
+/Users/w/CLionProjects/memorypool/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/w/CLionProjects/memorypool/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/w/CLionProjects/memorypool/cmake-build-debug/CMakeFiles/memorypool.dir
